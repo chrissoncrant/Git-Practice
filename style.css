@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+}
+
+header ul {
+    list-style-type: none;
+    padding: 0;
+    background-color:rgb(128, 52, 52);
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header ul li {
+    margin: 0 3%;
+    background-color: tan;
+    color:#502424;
+    padding: 0 4px;
+    height: 25px;
+    margin: 12.5px;
+}
+
+.wrapper-1 {
+    text-align: center;
+    color: #502424;
+    background-color: tan;
+    width: 65%;
+    margin: 0 17.5%;
+    padding: 25px 0;
+}
+
+main {
+    background-color:rgb(128, 52, 52);
+}
+
+.inner {
+    padding: 25px;
+    margin: 25px;
+    background-color: #dac6ad;
+}
