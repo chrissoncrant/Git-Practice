@@ -38,3 +38,7 @@ main {
     margin: 25px;
     background-color: #dac6ad;
 }
+
+.bold {
+    font-weight: bold;
+}
